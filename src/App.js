@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          🦋나비와 🐈고양이
+          나비와 고양이 
         </a>
       </header>
     </div>
